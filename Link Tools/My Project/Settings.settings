@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="t1adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t1link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p1gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t2adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t2link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p2gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t3adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t3link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p3gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t4adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t4link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p4gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t5adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t5link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p5gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t6adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t6link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p6gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t7adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t7link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p7gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t8adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t8link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p8gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t9adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t9link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p9gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="t10adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tuş Adı</Value>
+    </Setting>
+    <Setting Name="t10link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gidilecek Link</Value>
+    </Setting>
+    <Setting Name="p10gizli" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="konum" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ac" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
